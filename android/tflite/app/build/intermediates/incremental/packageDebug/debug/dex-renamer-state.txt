@@ -1,0 +1,4 @@
+#Mon Apr 02 11:55:03 IST 2018
+base.0=C\:\\Users\\PARTH\\Desktop\\tensorflow-for-poets-2-master\\android\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

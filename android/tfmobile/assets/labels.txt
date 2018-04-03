@@ -1,0 +1,5 @@
+noentry
+noparking
+speedlimit80
+stopsign
+yield
